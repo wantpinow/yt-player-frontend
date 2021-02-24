@@ -1,4 +1,4 @@
-# https://wantpinow.github.io/yt-player-frontend/#/
+# wantpinow.github.io/yt-player-frontend/
 
 ## Project setup
 ```
