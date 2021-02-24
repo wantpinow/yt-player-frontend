@@ -19,13 +19,13 @@ Vue.mixin({
   data: function () {
     return {
       get api_route() {
-        return "http://wantpinow.pythonanywhere.com/";
+        return "https://wantpinow.pythonanywhere.com/";
       }
     }
   }
 })
 // eslint-disable-next-line no-unused-vars
-export const api_route = "http://wantpinow.pythonanywhere.com/"
+export const api_route = "https://wantpinow.pythonanywhere.com/"
 
 // Initialise Buefy
 Vue.use(Buefy, {
